@@ -1,20 +1,20 @@
-### Olá! Prazer em te ver aqui, me chamo Petter.👋🏼👨🏽‍💻</>
+### Olá! Prazer em te ver aqui, me chamo Petter. 👋🏼👨🏽‍💻</>
 
 ### Bem-vindo ao meu perfil! <img src="https://tenor.com/pt-BR/view/emoji-dance-z-emoji-asik-meme-emoji-joget-asik-smile-dance-z-emoji-meme-gif-8003429575691782065.gif" alt="emoji animado" width="20" height="20">
 
 - 💻Desenvolvedor Front-end
-- 🍃Sempre pense positivo(ou pelo menos tente, você não tem nada a perder.)
+- 🍃Sempre pense positivo(ou pelo menos tente)
 - 📨Entre em contato! petter.santos@outlook.com.br
 
 ### Redes Sociais 📱
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pettersantos)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p.petters/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p.petterx/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SnakeEyesfox)
 
 ### Status do meu Git 👇🏼
 
-![Petter GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackoutFox&show_icons=true&theme=tokyonight)
+![Petter GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackoutFox&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackoutFox&layout=compact)
 
 ### Tecnologias que fiz uso <img src="https://tenor.com/pt-BR/view/linux-computer-os-ghosth-cyber-gif-25074749.gif" alt="emoji animado" width="30" height="20">
 
