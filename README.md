@@ -33,4 +33,6 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture><br><br>
 
-> _Algo bom está por vir, aguardem.👀_
+> _Algo bom está por vir, aguardem.👀_ <br>
+
+![](https://visitcount.itsvg.in/api?id=BlackoutFox&icon=0&color=0)
