@@ -17,14 +17,15 @@
 [![GitHub Streak](https://github-readme-streak-stats-six-ruddy.vercel.app?user=BlackoutFox&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackoutFox&show_icons=true&theme=dracula) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackoutFox&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
 
-### Tecnologias que fiz uso <img src="https://tenor.com/pt-BR/view/linux-computer-os-ghosth-cyber-gif-25074749.gif" alt="emoji animado" width="30" height="20">
+### Tecnologias que faço uso: <img src="https://tenor.com/pt-BR/view/linux-computer-os-ghosth-cyber-gif-25074749.gif" alt="emoji animado" width="30" height="20">
 
 <div style= "display: inline_block"><br/>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS&logoColor=white">
 
 <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img align="center" alt="KOTLIN" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+<img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/Javascript-0095D5?&style=for-the-badge&logo=javascript&logoColor=white">
 </div><br/>
 
 <picture align="center">
