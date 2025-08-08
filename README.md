@@ -2,7 +2,7 @@
 
 ### Bem-vindo ao meu perfil! <img src="https://tenor.com/pt-BR/view/emoji-dance-z-emoji-asik-meme-emoji-joget-asik-smile-dance-z-emoji-meme-gif-8003429575691782065.gif" alt="emoji animado" width="20" height="20">
 
-- 💻Desenvolvedor Front-end
+- 💻Desenvolvedor FullStack
 - 🍃Sempre pense positivo(ou pelo menos tente)
 - 📨Entre em contato! petter.santos@outlook.com.br
 
