@@ -14,8 +14,7 @@
 
 ### Status do meu Git 👇🏼
 
-[![GitHub Streak](https://github-readme-streak-stats-six-ruddy.vercel.app?user=PetterSsantos&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetterSsantos&show_icons=true&theme=dracula) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PetterSsantos&langs_count=8&layout=compact&hide_progress=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats-six-ruddy.vercel.app?user=PetterSsantos&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 
 ### Tecnologias que faço uso: <img src="https://tenor.com/pt-BR/view/linux-computer-os-ghosth-cyber-gif-25074749.gif" alt="emoji animado" width="30" height="20">
 
